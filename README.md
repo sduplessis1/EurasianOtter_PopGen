@@ -1,7 +1,7 @@
 # EurasianOtter_PopGen
 
 Bioinformatic scripts for population genomic analyses of Eurasian otters from Britain. 
-First author email <duplessiss@cardiff.ac.uk>.
+First author email <sarah.jane.du.plessis@gmail.com>.
 
 ### Citation:
 Sarah J du Plessis, Mark Blaxter, Klaus-Peter Koepfli, Elizabeth A Chadwick, Frank Hailer, Genomics reveals complex population history and unexpected diversity of Eurasian otters (*Lutra lutra*) in Britain relative to genetic methods, *Molecular Biology and Evolution*, 2023;, msad207, <https://doi.org/10.1093/molbev/msad207>
